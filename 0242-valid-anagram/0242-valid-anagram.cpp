@@ -1,6 +1,10 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
+        if(t.size() > s.size() || t.size() < s.size()) {
+            return false;
+        }
+        
         unordered_map<char, int> charCount;
         
         for(int i = 0 ; i < s.size(); i++) {
