@@ -24,6 +24,12 @@ public:
             i--; // do this or remove i++ from for loop
             //i is currently pointing to b but it should point to last of a so decrease the i
         }
+        //What the array physically looks like at this point:
+
+        // index:  0    1    2    3    4    5    6
+        // value: 'a'  '2'  'b'  '2'  'c'  '3'  'c'   ← size still 7!
+
+        // Notice index 6 still holds a leftover 'c' from the original array — it was never overwritten because the compressed result only needed 6 slots, not 7. That's why we use this
         chars.resize(idx);
         return idx;
     }
