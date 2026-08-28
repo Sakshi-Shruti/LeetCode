@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0443-string-compression) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0567-permutation-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
