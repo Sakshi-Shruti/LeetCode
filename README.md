@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0443-string-compression) |
