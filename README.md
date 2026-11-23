@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
