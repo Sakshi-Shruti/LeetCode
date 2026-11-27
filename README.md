@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0704-binary-search) |
+| [0733-flood-fill](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0733-flood-fill](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/sakshixwork08-maker/LeetCode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
